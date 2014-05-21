@@ -14,7 +14,14 @@
 }
 
 .bubble {
-  fill: #000;
+  fill: brown;
+  fill-opacity: .5;
+  stroke: #fff;
+  stroke-width: .5px;
+}
+
+.bubble :hover {
+  stroke: #000;
 }
 
 </style>
@@ -26,10 +33,14 @@
 var width = 960,
     height = 600;
 
+var projection = d3.geo.mercator().translate([width / 2, height / 2]);
+
 var path = d3.geo.path()
     .projection(null);
 
-var projection = d3.geo.mercator().translate([width / 2, height / 2]);
+var radius = d3.scale.sqrt()
+    .domain([0, 10000])
+    .range([0, 15]);
 
 // var projection = d3.geo.mercator().translate([200,300]);
 
@@ -57,7 +68,7 @@ d3.json("build/earth.json", function(error, earth) {
         .data(collection)
       .enter()
         .append("circle")
-          .attr("r",5)
+          .attr("r", function(d) { return radius(d.count);})
           .attr("transform", function(d) {return "translate(" + projection([d.longitude,d.latitude]) + ")";})
         .append("title")
           .text(function(d) {return d.title;});
