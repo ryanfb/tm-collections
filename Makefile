@@ -1,4 +1,4 @@
-all: build/earth.json
+all: build/earth.json tm-collections-geocoded.csv
 	open index.html
 
 node_modules:
@@ -20,6 +20,9 @@ build/countries.json: build/ne_110m_admin_0_countries.shp node_modules
 		--simplify=.5 \
 		--filter=none \
 		-- countries=$<
+
+tm-collections-geocoded.csv:
+	saxon -xsl:kml2csv.xsl -s:tm-collections-addresses-geocoded.kml -o:$@
 
 build/earth.json: build/countries.json node_modules
 	node_modules/.bin/topojson-merge \

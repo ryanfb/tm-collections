@@ -61,7 +61,7 @@ d3.json("build/earth.json", function(error, earth) {
     .attr("class", "border border--country")
     .attr("d", path);
 
-  d3.csv("lengths-geo.csv", function(collection) {
+  d3.csv("tm-collections-geocoded.csv", function(collection) {
     svg.append("g")
         .attr("class", "bubble")
       .selectAll("circle")
