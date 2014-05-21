@@ -15,5 +15,12 @@ build/countries.json: build/ne_110m_admin_0_countries.shp
 		--filter=none \
 		-- countries=$<
 
+build/earth.json: build/countries.json
+	node_modules/.bin/topojson-merge \
+		-o $@ \
+		--in-object=countries \
+		--out-object=earth \
+		-- $<
+
 clean:
 	rm -f build/*
