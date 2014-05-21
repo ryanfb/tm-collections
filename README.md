@@ -1,0 +1,1 @@
+Bubble map distribution of texts/collections in Trismegistos.
