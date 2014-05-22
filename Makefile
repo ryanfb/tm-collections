@@ -21,13 +21,10 @@ build/countries.json: build/ne_110m_admin_0_countries.shp node_modules
 		--filter=none \
 		-- countries=$<
 
-tm-collections-geocoded.csv: tm-collections-addresses-geocoded.csv tm-collections-mapsengine-earth-export.csv
+tm-collections-geocoded.csv: tm-collections-addresses-geocoded.csv
 	./merge-geocode-csv.rb $^ > $@
 
 tm-collections-addresses-geocoded.csv: tm-collections-addresses-geocoded.kml
-	saxon -xsl:kml2csv.xsl -s:$< -o:$@
-
-tm-collections-mapsengine-earth-export.csv: tm-collections-mapsengine-earth-export.kml
 	saxon -xsl:kml2csv.xsl -s:$< -o:$@
 
 earth.json: build/countries.json node_modules

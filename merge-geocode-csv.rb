@@ -10,6 +10,8 @@ coll = {}
 ARGV.each do |csv_input|
   $stderr.puts "Parsing #{csv_input} coll..."
   CSV.foreach(csv_input, :headers => true) do |row|
+    row["id"] = row["id"].to_i.to_s
+    row["count"] = row["count"].to_i.to_s
     coll[row["id"]] = row
   end
 end
