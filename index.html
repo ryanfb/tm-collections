@@ -27,6 +27,7 @@
 </style>
 <body>
 <script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://d3js.org/queue.v1.min.js"></script>
 <script src="http://d3js.org/topojson.v1.min.js"></script>
 <script>
 
@@ -39,31 +40,35 @@ var path = d3.geo.path()
     .projection(null);
 
 var radius = d3.scale.sqrt()
-    .domain([0, 10000])
-    .range([0, 15]);
+    .domain([1, 1e4])
+    .range([2, 32]);
 
 var svg = d3.select("body").append("svg")
     .attr("width", width)
     .attr("height", height);
 
-d3.json("earth.json", function(error, earth) {
-  if (error) return console.error(error);
+queue()
+    .defer(d3.csv, "tm-collections-geocoded.csv")
+    .await(ready);
 
-  svg.append("path")
-      .datum(topojson.feature(earth, earth.objects.countries))
-      .attr("class", "land")
+function ready(error, collections) {
+  d3.json("earth.json", function(error, earth) {
+    if (error) return console.error(error);
+
+    svg.append("path")
+        .datum(topojson.feature(earth, earth.objects.countries))
+        .attr("class", "land")
+        .attr("d", path);
+
+    svg.append("path")
+      .datum(topojson.mesh(earth, earth.objects.countries, function(a, b) { return a !== b; }))
+      .attr("class", "border border--country")
       .attr("d", path);
 
-  svg.append("path")
-    .datum(topojson.mesh(earth, earth.objects.countries, function(a, b) { return a !== b; }))
-    .attr("class", "border border--country")
-    .attr("d", path);
-
-  d3.csv("tm-collections-geocoded.csv", function(collection) {
     svg.append("g")
         .attr("class", "bubble")
       .selectAll("circle")
-        .data(collection)
+        .data(collections.sort(function(a, b) { return b.count - a.count; }))
       .enter()
         .append("circle")
           .attr("r", function(d) { return radius(d.count);})
@@ -71,6 +76,6 @@ d3.json("earth.json", function(error, earth) {
         .append("title")
           .text(function(d) {return d.title;});
   });
-});
+}
 
 </script>
