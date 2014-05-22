@@ -75,6 +75,7 @@ function ready(error, collections) {
         .append("circle")
           .attr("r", function(d) { return radius(d.count);})
           .attr("transform", function(d) {return "translate(" + projection([d.longitude,d.latitude]) + ")";})
+          .on("click", function(d) {window.open("http://www.trismegistos.org/collection/" + d.id,"_blank");})
         .append("title")
           .text(function(d) {return d.title + "\n" + formatNumber(d.count) + " texts";});
   });
