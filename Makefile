@@ -21,11 +21,20 @@ build/countries.json: build/ne_110m_admin_0_countries.shp node_modules
 		--filter=none \
 		-- countries=$<
 
-tm-collections-geocoded.csv: tm-collections-addresses-geocoded.csv
+tm-collections-geocoded.csv: tm-collections-addresses-geocoded.csv tm-collections-addresses-geocoded-remainder.csv
 	./merge-geocode-csv.rb $^ > $@
 
 tm-collections-addresses-geocoded.csv: tm-collections-addresses-geocoded.kml
 	saxon -xsl:kml2csv.xsl -s:$< -o:$@
+
+tm-collections-addresses-nongeocoded.csv: tm-collections-addresses-clean.csv tm-collections-addresses-geocoded.csv
+	./subtract-csv.rb $^ > $@
+
+tm-collections-addresses-geocoded-remainder.csv: tm-collections-addresses-nongeocoded.csv
+	./geocode-addresses.rb $< > $@
+
+tm-collections-addresses-clean.csv:
+	./tm-coll-rdf.rb ../dump > $@
 
 earth.json: build/countries.json node_modules
 	node_modules/.bin/topojson-merge \

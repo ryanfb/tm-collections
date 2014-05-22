@@ -1,0 +1,851 @@
+count,id,title,longitude,latitude,elevation
+36,6,"Allentown, Muhlenberg College",-75.508471,40.596407,0
+193,7,"Amsterdam, Allard Pierson Museum",4.892946,52.368768,0
+64,20,"Austin, University of Texas",-97.74116299999999,30.284251,0
+119,22,"Baltimore, Johns Hopkins University",-76.61949,39.328994,0
+46,27,"Basel, Universitätsbibliothek",7.580962,47.55963700000001,0
+25,42,"Beuron, Erzabtei",8.969905000000001,48.050392,0
+1,44,"Blackburn, Museum and Art Galleries",-2.484351,53.750446,0
+14,45,"Bloomington, Indiana University",-86.514905,39.169135,0
+86,46,"Bologna, Biblioteca Universitaria",11.352946,44.49696,0
+1,48,"Bologna, Biblioteca dell'Archiginnasio",11.343418,44.492103,0
+126,49,"Bologna, Museo Civico Archeologico",11.343433,44.492026,0
+21,50,"Bolton, Museum",-2.431364,53.577458,0
+85,59,"Bremen, Staatsbibliothek",8.853804,53.108174,0
+7,60,"Brighton, Museum",-0.138316,50.823382,0
+1384,72,"Cairo, Coptic Museum",31.230183,30.006038,0
+388,79,"Cambridge, University Library",0.10776,52.205068,0
+164,81,"Cambridge, Fitzwilliam Museum",0.119944,52.199534,0
+135,87,"Cambridge (MA), Harvard University Library",-71.11591900000001,42.373171,0
+1,88,"Cambridge (MA), Harvard University Semitic Museum",-71.11392499999999,42.378071,0
+1,91,"Cheltenham, Ladies' College",-2.081544,51.897761,0
+6,99,"Chicago, University Library",-87.599934,41.79218,0
+2,107,"Crowthorne, Wellington College",-0.806423,51.364374,0
+10,114,"Dublin, Royal Irish Academy",-6.258220000000001,53.340698,0
+5,117,"Dunedin, Otago Museum",170.510192,-45.865689,0
+56,118,"Durham, Cathedral Library",-1.577053,54.773062,0
+9,120,"Durham, University Library",-1.576441,54.774584,0
+25,123,"Edinburgh, University Library",-3.18915,55.94270999999999,0
+2074,128,"Florence, Biblioteca Medicea Laurenziana",11.25404,43.774326,0
+3,130,"Florence, Archivio Statale",11.270559,43.769118,0
+1,132,"Fleetwood, Rossal School",-3.043282,53.894038,0
+55,137,"Geneva, Fondation Bodmer",6.180628999999999,46.21526799999999,0
+201,139,"Ghent, University",3.725216,51.045201,0
+167,142,"Glasgow, Hunterian Museum",-4.288856,55.87307100000001,0
+35,148,"Groningen, University Library",6.577113,53.22101,0
+68,155,"Heerlen, Thermenmuseum",5.976404,50.885332,0
+1605,156,"Heidelberg, Institut für Papyrologie",8.705323999999999,49.41222299999999,0
+78,162,"Innsbruck, Landesmuseum",11.397674,47.2673,0
+30,166,"Jerusalem, Hebrew University, Library",35.242887,31.793002,0
+14,176,"Leeds, University",-1.553388,53.807958,0
+5413,192,"London, British Library",-0.127676,51.52997200000001,0
+5496,193,"London, British Museum",-0.126957,51.519413,0
+1,213,"Magdeburg, Kulturhistorisches Museum",11.629409,52.125387,0
+1396,218,"Manchester, John Rylands Library",-2.24876,53.48027399999999,0
+52,219,"Manchester, University Museum",-2.234424,53.46650799999999,0
+198,226,"Milan, Biblioteca Ambrosiana",9.185788000000001,45.463479,0
+1,230,"Mississippi, University",-90.329751,32.337362,0
+157,232,"Montserrat, Abadia",1.837676,41.593326,0
+363,239,"Naples, Biblioteca Nazionale",14.249565,40.83619,0
+7,241,"New Haven, Yale University, Peabody Museum",-72.921115,41.315998,0
+770,242,"New Haven, Yale University, Beinecke Library",-72.927257,41.311585,0
+19,243,"New Wilmington, Westminster College",-80.32826300000001,41.118097,0
+674,244,"New York, Brooklyn Museum",-73.96363100000001,40.671206,0
+6,248,"New York, Museum of the New York Historical Society",-73.97423000000001,40.779281,0
+17,254,"Newton Centre, Andover Newton Theological School",-71.19031200000001,42.325285,0
+4790,263,"Oxford, Ashmolean Museum",-1.260064,51.75530199999999,0
+1625,265,"Oxford, Bodleian Library",-1.254048,51.754062,0
+2,273,"Paris, Musée Guimet",2.29369,48.865101,0
+2,277,"Philadelphia, Free Library",-75.145338,40.031763,0
+263,280,"Philadelphia, University of Pennsylvania Museum",-75.191734,39.950322,0
+14,285,"Poughkeepsie, Vassar College",-73.89543399999999,41.686904,0
+12,290,"Princeton, Theological Seminary",-74.66610799999999,40.344719,0
+2,297,"Rimini, Biblioteca Civica Gambalunga",12.567999,44.061891,0
+59,300,"Rotterdam, Erasmus University Library",4.468944,51.910554,0
+12,309,"South Hadley, Mount Holyoke College",-72.575767,42.256729,0
+211,325,"Sydney, Nicholson Museum",151.188784,-33.886395,0
+1079,334,"Turin, Museo Egizio",7.684304,45.06843,0
+8,335,"Toronto, University of Toronto",-79.39888000000001,43.664088,0
+3,340,"Tübingen, Universitätsbibliothek",9.06176,48.5251,0
+43,345,"Urbana-Champaign, University of Illinois",-88.22111599999999,40.107635,0
+187,350,"Warsaw, National Museum",21.02474,52.231687,0
+4,352,"Washington, Library of Congress",-77.00471899999999,38.888684,0
+332,358,"Vienna, Kunsthistorisches Museum",16.361787,48.203802,0
+5,362,"Vienna, Gymnasium Theresianum",16.370899,48.193088,0
+32,373,"Krakow, Archaeological Museum",19.936002,50.057418,0
+565,378,"Toronto, Royal Ontario Museum",-79.394777,43.66771,0
+145,379,"Leeds, City Museum",-1.546834,53.801548,0
+1,393,"Glasgow, Burrell Collection",-4.307628,55.83089,0
+12,405,"The Hague, Museum Meermanno-Westreenianum",3.497719,51.563788,0
+54,406,"Dublin, University College",-6.203900000000001,53.29624,0
+3,409,"Lemgo, Gymnasium",8.895822000000001,52.027676,0
+46,410,"Hildesheim, Roemer-Pelizaeus-Museum",9.944096999999999,52.14943499999999,0
+13,411,"Minneapolis, University of Minnesota",-93.24311400000001,44.97327,0
+20,425,"Detroit, Institute of Arts",-83.065213,42.359114,0
+17,430,"Pittsburgh, Carnegie Museum",-79.95004299999999,40.443371,0
+47,448,"Stockholm, Medelhavsmuseet",18.067367,59.32939900000001,0
+17,455,"Cleveland, Museum of Art",-81.611358,41.508938,0
+15,459,"Bremen, Überseemuseum",8.810533,53.083344,0
+64,466,"Dublin, National Museum",-6.286526,53.348295,0
+1,467,"Easton, Lafayette College",-75.207945,40.699878,0
+36,470,"Hannover, Kestner-Museum",9.736485,52.36809599999999,0
+2,481,"Liverpool, Lady Lever Art Gallery",-2.999610000000001,53.35577,0
+3,489,"London, Freud Museum",-0.177433,51.548352,0
+4,493,"Melbourne, National Gallery of Victoria",144.968916,-37.822658,0
+2,499,"Princeton, University Art Museum",-74.657646,40.347069,0
+7,507,"Samos, Archaeological Museum",26.980019,37.750629,0
+47,510,"Nicosia, Cyprus Museum",33.355716,35.171725,0
+24,517,"Amiens, Musée de Picardie",2.295483,49.890513,0
+6,537,"Toulouse, Musée Labit",1.458431,43.591065,0
+6,544,"Angers, Musée Pincé",-0.551878,47.472032,0
+6,550,"Bordeaux, Musée d’Aquitaine",-0.575043,44.835575,0
+7,551,"Buffalo, Museum of Natural Science",-78.843468,42.906346,0
+6,555,"Copenhagen, Thorvaldsens Museum",12.578054,55.676638,0
+30,556,"Cortona, Museo dell’Accademia Etrusca",11.984988,43.275433,0
+1,557,"Denver, Art Museum",-104.988959,39.737109,0
+45,560,"Geneva, Musée d'Art et Histoire",6.151574,46.199304,0
+4,561,"Mainz, Gutenberg Museum",8.275278,49.99972200000001,0
+199,566,"Klagenfurt, Landesmuseum",14.312648,46.621414,0
+10,569,"London, Cuming Museum",-0.096723,51.490919,0
+1,572,"Munich, Deutsches Jagd- und Fischereimuseum",11.571052,48.138273,0
+7,573,"Yverdon-les-Bains, Musée d'Yverdon",6.641635,46.778371,0
+12,574,"Neuchâtel, Musée d'Ethnographie",6.920600000000001,46.9901,0
+1,576,"New York, New York University, Institute of Fine Arts",-76.13688,43.038528,0
+12,581,"Roanne, Musée des Beaux-Arts",4.069268,46.035124,0
+12,600,"Luxor, Museum",32.640284,25.700208,0
+24,606,"Rio de Janeiro, Museo Nacional",-43.226529,-22.90576,0
+38,609,"San José, Rosicrucian Museum",-121.922883,37.33349,0
+131,610,"Stuttgart, Württembergisches Landesmuseum",9.179169,48.77720000000001,0
+11,611,"Hamburg, Museum für Völkerkunde",9.988985,53.568459,0
+7,613,"New Haven, Yale Art Gallery",-72.93068,41.308356,0
+442,614,"Ann Arbor, Michigan University, Kelsey Museum",-83.741371,42.276748,0
+1,622,"Altenburg, Staatsarchiv",12.457681,50.95756599999999,0
+2,629,"Augsburg, Universitätsbibliothek",10.895047,48.334407,0
+2,633,"Barcelona, Arxiu de la Catedral",2.176199,41.383962,0
+4,641,"Bonn, Universitäts- und Landesbibliothek",7.108665999999999,50.73138400000001,0
+3,644,"Brescia, Biblioteca Queriniana",10.222553,45.53884799999999,0
+3,659,"Oxford, Griffith Institute",-1.26126,51.755263,0
+4,663,"Chicago, Newberry Library",-87.630527,41.899924,0
+1,665,"Claremont, Library of the School of Theology",-117.716067,34.108058,0
+11,666,"Colmar, Bibliothèque Municipale",7.35679,48.078826,0
+4,670,"Dillingen an der Donau, Studienbibliothek",10.491123,48.576892,0
+3,673,"Douai, Bibliothèque Municipale",3.073704,50.367604,0
+3,676,"Edinburgh, National Library",-3.191873000000001,55.948549,0
+2,677,"Eichstätt, Universitätsbibliothek",11.190893,48.88686499999999,0
+1,682,"Friuli, Museo Archeologico Nazionale",13.430942,46.093328,0
+2,689,"Hereford, Cathedral Library",-2.715866,52.05430499999999,0
+2,696,"Klagenfurt, Universitätsbibliothek",14.264944,46.61671200000001,0
+27,697,"Cologne, Dombibliothek",6.95202,50.94481,0
+3,711,"Madrid, Biblioteca Nacional",-3.689432,40.423505,0
+15,714,"Marburg, Hessisches Staatsarchiv",8.76291,50.80355,0
+3,720,"Modena, Archivio Capitolare",10.925678,44.646345,0
+2,728,"New York, Fordham University",-73.885758,40.861604,0
+8,730,"Nuremberg, Germanisches Nationalmuseum",11.075511,49.448249,0
+2,735,"Paris, Bibliothèque Sainte-Geneviève",2.345817,48.847024,0
+1,736,"Paris, Institut Catholique de Paris",2.329676,48.848003,0
+3,737,"Perugia, Biblioteca Capitolare",12.388838,43.112066,0
+13,741,"Rome, Biblioteca Nazionale Centrale",12.507516,41.906205,0
+1,750,"Clitheroe, Stoneyhurst College Library",-2.471548,53.84709600000001,0
+3,751,"Stuttgart, Hauptstaatsarchiv",9.184399000000001,48.776725,0
+2,752,"Turin, Archivio di Stato",7.687535,45.07110000000001,0
+35,753,"Turin, Biblioteca Nazionale",7.687055,45.068423,0
+1,755,"Tours, Bibliothèque Municipale",0.687934,47.397311,0
+48,761,"Verona, Biblioteca Capitolare",10.99638,45.44709,0
+18,767,"Zürich, Zentralbibliothek",8.545021,47.37412799999999,0
+9,771,"Rome, Biblioteca Vallicelliana",12.468716,41.89823,0
+1,772,"Rome, Biblioteca Angelica",12.474598,41.900683,0
+1,773,"Rome, Biblioteca Casanatense",12.47934,41.898825,0
+16,784,"Grottaferrata, Abbazia di Santa Maria",12.6667,41.786457,0
+1,788,"Oxford, Magdalen College",-1.247321,51.75182,0
+2,789,"Moscow, History Museum",37.617569,55.763485,0
+5,791,"Münster, Universitäts- und Landesbibliothek",7.620523,51.96285,0
+6,792,"Madrid, Real Academia de la Historia",-3.698988,40.413475,0
+1,795,"Zofingen, Stadtbibliothek",7.946039,47.289202,0
+1,798,"Bad-Hersfeld, Stadtmuseum",9.70209,50.86668,0
+24,808,"Stuttgart, Württembergische Landesbibliothek",9.185041999999999,48.777,0
+2,817,"Rome, Biblioteca Corsiniana",12.465209,41.895561,0
+10,822,"San Lorenzo, El Escorial",-4.147604,40.590371,0
+2,828,"Chicago, Art Institute",-87.623712,41.879585,0
+5,834,"Rouen, Bibliothèque Municipale",1.094993,49.44461,0
+1,842,"Marburg, Universitätsbibliothek",8.779987999999999,50.808595,0
+2,845,"Regensburg, Staatliche Bibliothek",12.090777,49.01855,0
+3,850,"Pisa, Scuola Normale Superiore",10.40033,43.719601,0
+4,853,"Périgueux, Musée du Périgord",0.723754,45.186061,0
+1,861,"Beer-Sheeva, Ben Gurion University",34.802372,31.262528,0
+1,866,"Novara, Biblioteca Capitolare",8.618747000000001,45.445549,0
+2,873,"Halberstadt, Domschatz",11.048466,51.895785,0
+3,877,"Sélestat, Bibliothèque Humaniste",7.455039,48.260384,0
+6,880,"Krakow, Jagellonian University",19.933006,50.061191,0
+1,883,"Madrid, Convento de la Encarnacion",-3.711576,40.420046,0
+1,890,"Treviso, Archivio Notarile",12.240262,45.664266,0
+5,899,"Messina, San Salvatore",14.777098,38.070567,0
+10,906,"Thessaloniki, Byzantine Museum",22.955058,40.6239,0
+1,914,"Reykjavik, National Museum of Iceland",-21.947742,64.142039,0
+108,916,"Ismailia, Museum",32.283695,30.59287,0
+3,917,"Kazan, University",49.14133,55.79147300000001,0
+19,927,"Mariemont, Musée Royal",4.232684,50.46768200000001,0
+10,929,"Odessa, State Archaeological Museum",30.743944,46.485071,0
+1,933,"Williamsburg (Virginia), College of William and Mary",-76.716903,37.272328,0
+4,962,"Paris, Musée du Petit Palais",2.31467,48.866084,0
+2,964,"Beijing, Peking University",116.305874,39.986913,0
+2,968,"Raleigh, North Carolina Museum of Art",-78.702139,35.810435,0
+4,973,"Newark, Museum",-74.17171,40.743079,0
+2,974,"Brunswick, Bowdoin College",-69.963793,43.906732,0
+1,985,"Beijing, National Library",116.325153,39.943211,0
+3,989,"Stockholm, National Museum",18.089956,59.33467799999999,0
+77,994,"Karlsruhe, Badische Landesbibliothek",8.398898000000001,49.00828300000001,0
+3,1000,"London, Soane's Museum",-0.117392,51.51702800000001,0
+1,1017,"Debrecen, Déri Múzeum",21.622093,47.533048,0
+1,1020,"Gotha, Schlossmuseum",10.704467,50.945837,0
+5,1021,"Grenoble, Musée des Beaux-Arts",5.732256,45.19427600000001,0
+4,1023,"Hamm, Gustav Lübcke Museum",7.810568,51.677203,0
+3,1026,"Lissabon, Museu Gulbenkian",-9.154956,38.738028,0
+4,1031,"Munich, Glyptothek",11.565703,48.146343,0
+6,1034,"Paris, Musée Rodin",2.315897,48.855311,0
+6,1064,"Richmond, Virginia Museum of Fine Arts",-77.475044,37.556616,0
+5,1069,"Truro, Cornwall Museum",-5.054855,50.263679,0
+1,1147,"New Brunswick, Rutgers University",-74.43178899999999,40.478671,0
+1,1148,"Kabul, National Museum",69.120407,34.467545,0
+2,1184,"Omaha, Joslyn Art Museum",-95.945577,41.260741,0
+7,1195,"Doncaster, Doncaster Museum and Art Gallery",-1.127446,53.52046699999999,0
+19,1212,"Basel, Antikenmuseum",7.593155,47.55433200000001,0
+3,1218,"Nijmegen, University Library",5.865496,51.81997199999999,0
+1,1232,"Dallas, Public Library",-96.797055,32.778379,0
+384,1238,"Mainz, Landesmuseum",8.268051,50.003687,0
+3,1243,"Dresden, Skulpturensammlung Albertinum",13.74385,51.05238,0
+1,1255,"Lincoln, University",-0.54981,53.22845299999999,0
+2,1256,"Worcester, Art Museum",-71.80200000000001,42.2731,0
+95,1260,"Copenhagen, Ny Carlsberg Glyptotek",12.572543,55.67298,0
+2,1277,"Accra, University",-0.191617,5.650921,0
+1,1287,"Providence, Brown University",-71.40468799999999,41.825379,0
+3,1295,"Oxford, Clarendon Press",-1.265928,51.75882899999999,0
+156,1299,"Delos, Archaeological Museum",25.271376,37.393436,0
+1,1304,"Lissabon, Academia das Ciências",-9.149403,38.713356,0
+3,1305,"Sèvres, Musée",2.223149,48.82869800000001,0
+1,1326,"Pennsylvania, Swarthmore College",-75.35199,39.90652,0
+1,1350,"Düsseldorf, Kunstmuseum",6.771887,51.234398,0
+35,1372,"Trier, Rheinisches Landesmuseum",6.64374,49.75111999999999,0
+2,1374,"Paray-le-Monial, Musée eucharistique du Hiéron",4.123544,46.451784,0
+3,1376,"Rome, Museo Barracco",12.47263,41.896711,0
+37,1378,"Rouen, Musée départemental des antiquités",1.099303,49.447143,0
+3,1389,"Hamburg, Museum für Kunst und Gewerbe",10.009005,53.551791,0
+27,1392,"Delphi, Archaeological Museum",22.499755,38.480068,0
+68,1393,"Los Angeles, County Museum of Art",-118.359229,34.063932,0
+1,1397,"Athens, Stoa of Attalos",23.721939,37.976386,0
+2,1398,"Athens, Kerameikos",23.718937,37.978204,0
+1,1415,"Chios, Archaeological Museum",26.1397,38.364888,0
+1,1416,"Athens, Agora",23.726623,37.974212,0
+2,1418,"Ferrara, Museo Schifanoia",11.629102,44.830479,0
+3,1419,"Boulogne-sur-Mer, Château Musée",1.617318,50.725627,0
+3,1422,"Madrid, Museo Nacional del Prado",-3.692127,40.413782,0
+6,1429,"Sevilla, Universidad Hispalense",-5.991231000000001,37.380758,0
+1,1433,"Cologne, Rautenstrauch-Joest Museum",6.964796,50.922383,0
+1,1448,"Seattle, Art Museum",-122.338148,47.607636,0
+37,1454,"Alnwick, Alnwick Castle",-1.70592,55.415583,0
+2,1456,"Bangor, Penrhyn Castle",-4.109311,53.231687,0
+1,1458,"Modena, Biblioteca Estense Universitaria",10.921019,44.648208,0
+1,1459,"Croydon, Central Library",-0.09896000000000001,51.372161,0
+1,1463,"Christchurch, Canterbury Museum",172.627574,-43.531175,0
+1,1465,"Compiègne, Musée Antoine Vivenel",2.821711,49.41752300000001,0
+7,1467,"Cherchel, Museum",2.191161,36.608332,0
+3,1469,"Beirut, Museum",35.514872,33.878486,0
+4,1470,"Izmir, Archaeological Museum",27.128946,38.414314,0
+1,1472,"Antalya, Archaeological Museum",31.98865,36.544015,0
+17,1483,"Bourges, Musée du Berry",2.392898,47.085153,0
+2,1487,"Boston, Athenaeum",-71.062106,42.358006,0
+2,1495,"Salem, Prewitt-Allen Archaeological Museum",-122.961151,44.882993,0
+141,1503,"Brugg, Vindonissa-Museum",8.205798,47.484358,0
+1,1508,"London, London school of Jewish Studies",-0.213816,51.588287,0
+5,1524,"Durham, Ushaw college",-1.661118,54.78818800000001,0
+1,1528,"Luzern, Luzern, Staatsarchiv",8.299858,47.050518,0
+1,1530,"Braunschweig, Stadtbibliothek",10.52708,52.262983,0
+1,1535,"Nuremberg, Staatsarchiv",11.07424,49.46303,0
+1,1536,"Ancona, Biblioteca Diocesana",13.235383,43.525707,0
+34,1546,"Dorchester, Dorset County Museum",-2.43767,50.715619,0
+10,1564,"Bitola, National Museum",21.335648,41.023717,0
+25,1575,"Larisa, Archaeological Museum",22.423265,39.641888,0
+3,1579,"Ohrid, National Museum",21.335648,41.023717,0
+69,1585,"Skopje, Archaeological Museum",21.434343,41.996829,0
+19,1590,"Siracusa, Museo Archeologico Orsi",15.286473,37.076341,0
+1,1594,"Florence, Biblioteca Nazionale Centrale",11.262348,43.767081,0
+2,1595,"Leeuwarden, Fries Museum",5.794376,53.19961899999999,0
+1,1608,"Warsaw, Biblioteka Narodowa",21.003451,52.213658,0
+1,1617,"Diyarbakir, Private collection Basaranlar",40.230629,37.91441,0
+1,1619,"Angers, Bibliothèque Municipale",-0.556308,47.468855,0
+1,1621,"Maihingen, Kloster",10.5004,48.964179,0
+1,1626,"Porto, Museu Faculdade Ciencias",-8.6157,41.146547,0
+1,1627,"Aachen, Suermondt Ludwig-Museum",6.095739000000001,50.77341,0
+18,1628,"Atlanta, Michael C. Carlos Museum",-84.324162,33.790463,0
+2,1631,"Colmar, Musée d'Histoire Naturelle",7.358951,48.07356100000001,0
+1,1632,"Detmold, Lippisches Landesmuseum",8.87677,51.93715,0
+2,1634,"Milwaukee, Public Museum",-87.92158499999999,43.040734,0
+1,1635,"Oslo, Historisk Museum",10.735424,59.916828,0
+1,1636,"Stockton, The Haggin Museum",-121.313878,37.960625,0
+7,1638,"Warsaw, Muzeum Narodowa",21.02474,52.231687,0
+1,1639,"Wellington, Museum of New Zealand",174.782089,-41.290456,0
+1,1640,"Wooster, Ebert Art Center",-81.93630400000001,40.811944,0
+1,1642,"Orléans, Musée des Beaux-Arts",1.909816,47.902609,0
+1,1646,"Milan, Ospedale Maggiore",9.189629999999999,45.509033,0
+1,1647,"Aylesbury, Hartwell House",-0.846934,51.805191,0
+4,1648,"Haslemere, Haslemere Educational Museum",-0.707326,51.090089,0
+1,1649,"Havana, Museo Nacional de Bellas Artes",-82.357399,23.140095,0
+1,1654,"Venice, San Lazzaro degli Armeni",12.361681,45.412288,0
+1,1656,"Cherbourg-Octeville, Muséum Emmanuel-Liais",-1.629664,49.642904,0
+28,1666,"Warrington, Museum",-2.595882,53.387109,0
+1,1671,"Kalamazoo, Valley Museum",-85.583755,42.293367,0
+1,1673,"Leicester, New Walk Museum",-1.127775,52.628938,0
+1,1674,"Salem, Willamette University",-123.033788,44.938446,0
+2,1678,"Dresden, Staatliche Kunstsammlungen",13.736977,51.05222,0
+44,1679,"Exeter, Royal Albert Memorial Museum",-3.532515,50.72529599999999,0
+16,1714,"Perth, Museum and Art Gallery",-3.428082,56.398197,0
+87,1715,"Cologne, Römisch-Germanisches Museum",6.958955,50.940578,0
+4,1721,"Rodez, Musée Fenaille",2.576368,44.349151,0
+2,1728,"Cambridge, Girton College",0.083717,52.228397,0
+5,1734,"Rottweil, Dominikanermuseum",8.625899,48.16918100000001,0
+1,1739,"Offenbach am Main, Leder Museum",8.754810000000001,50.10333000000001,0
+21,1745,"Ipswich, Museum",1.150947,52.0606,0
+1,1750,"Caboolture, Abbey Museum",153.022731,-27.070927,0
+1,1754,"Boston, Zion Research Library",-71.10842,42.350744,0
+2,1760,"Provo, Brigham Young University",-111.649246,40.249234,0
+25,1764,"Bari, Museo Archeologico Provinciale",16.870474,41.132186,0
+198,1765,"Brindisi, Museo Archeologico Provinciale",17.94514,40.64049,0
+1,1771,"Manduria, Bibliotheca Comunale",17.635113,40.399563,0
+68,1772,"Taranto, Museo Nazionale",17.238388,40.473665,0
+4,1776,"Lecce, Università, Dipartimento di Beni Culturali",18.151548,40.353922,0
+1,1786,"Olympia, Museum",21.629409,37.643458,0
+111,1787,"Pompeii, Soprintendenza Archeologica (Pompei)",14.481321,40.74856,0
+1,1791,"Amsterdam, Tropenmuseum",4.923009,52.362702,0
+1,1800,"Halifax, Bankfield Museum",-1.863426,53.732536,0
+46,1802,"Barnard Castle, Bowes Museum",-1.915462,54.542142,0
+14,1803,"Brecon, Brecknock Museum & Art Gallery",-3.389336,51.94617600000001,0
+406,1808,"Carlisle, Museum",-2.94047,54.895424,0
+6,1810,"Chedworth, Museum",-1.924685,51.819895,0
+344,1812,"Chester, Grosvenor Museum",-2.892445,53.187281,0
+213,1818,"Circencester, Corinium Museum",-1.970704,51.7173,0
+2,1819,"Northallerton, County Hall",-1.438879,54.33297200000001,0
+321,1824,"Gloucester, City Museum",-2.246094,51.862224,0
+2,1825,"Gloucester, Grantham Museum",-0.640146,52.91043,0
+14,1830,"Ilkley, Museum",-1.824829,53.926832,0
+3,1831,"Aldborough, Private collection Lawson-Tancred",-1.406463,54.110242,0
+24,1834,"Lancaster, Museum",-2.801728,54.048839,0
+9,1835,"Lanercost, Priory",-2.695025,54.96594,0
+20,1837,"Lechworth, Museum",-0.229597,51.976639,0
+2,1838,"Lewes, Museum",0.007417,50.87288,0
+8,1840,"Llandrindod Wells, Radnorshire Museum",-3.377602,52.241117,0
+23,1843,"Malton, Museum",-0.7987880000000001,54.135826,0
+265,1845,"Cardiff, National Museum",-3.177549,51.485899,0
+2,1848,"Ilkley, Denton Hall",-1.778558,53.93525099999999,0
+25,1849,"Newport, Museum",-2.993613,51.58539199999999,0
+2,1854,"Pontefract, Museum",-1.312083,53.692044,0
+10,1861,"Grangebellew, Rokeby Hall",-6.349588,53.805458,0
+80,1865,"South Shields, Museum",-1.431574,54.998776,0
+7,1871,"Stroud, Museum",-2.223579,51.74970099999999,0
+19,1872,"Taunton, Museum",-3.104593,51.01563800000001,0
+126,1875,"Saint Albans, Verulamium Museum",-0.355188,51.753098,0
+1,1876,"Glossop, Victoria Hall",-1.950095,53.446563,0
+1,1877,"Worcester, Victoria Institute",-2.221705,52.196392,0
+17,1878,"Winchester, City Museum",-1.314936,51.061953,0
+1,1880,"Yeovil, Museum",-2.6348,50.9394,0
+20,1886,"Wall, Museum",-1.856268,52.657106,0
+3,1897,"Granada, Cathdral",-3.61026,37.189075,0
+61,1905,"Ancona, Museo Archeologico Nazionale",13.510888,43.622744,0
+1,1909,"Assisi, Museo Civico",12.61429,43.071392,0
+2,1916,"Bevagna, Museo Civico",12.608763,42.933514,0
+1,1918,"Boscoreale, Biblioteca comunale",14.474743,40.775888,0
+292,1919,"Campobasso, Soprintendenza Archeologica per il Molise",14.65909,41.56154,0
+353,1920,"Capua, Museo Provinciale Campano",14.212739,41.110978,0
+154,1925,"Catania, Museo Civico",15.084422,37.499197,0
+16,1928,"Chieti, Soprintendenza Archeologico per l’Abruzzo",14.168226,42.353446,0
+3,1930,"Chiusi, Museo Archeologico Nazionale",11.946742,43.015874,0
+1,1934,"Crotone, Museo Archeologico Nazionale",17.131069,39.080206,0
+38,1943,"Frankfurt, Archäologisches Museum",8.678685,50.109276,0
+1,1947,"Gualdo Tadino, Museo Civico",12.788404,43.233092,0
+1,1952,"Lipari, Museo Archeologico",14.95724,38.467225,0
+27,1955,"Matera, Soprintendenza Archeologica (Basilicata)",16.609738,40.670602,0
+27,1959,"Messina, Museo Regionale",15.564528,38.217122,0
+1,1961,"Metaponto, Museo Nazionale",16.807046,40.373288,0
+1,1962,"Milan, Museo Poldi Pezzoli",9.191501000000001,45.468641,0
+9,1968,"Nola, Museo Storico Archeologico",14.530542,40.925647,0
+1,1969,"Penne, Museo Archeologico",13.928691,42.456349,0
+9,1971,"Nocera Inferiore, Museo dell'Agro Nocerino",14.64412,40.748338,0
+58,1972,"Paestum, Museo Archeologico Nazionale",15.007092,40.4234,0
+81,1974,"Perugia, Museo Archeologico Nazionale",12.391883,43.10711,0
+3,1979,"Pontecagnano, Museo Archeologico Nazionale",14.879802,40.640078,0
+59,1982,"Reggio Calabria, Museo Archeologico Nazionale",15.651193,38.114578,0
+2,1983,"Rimini, Museo Civico",12.567155,44.06246,0
+2786,1985,"Rome, Museo Nazionale delle Terme",12.498376,41.904282,0
+20,1986,"Rome, Museo Nazionale di Villa Giulia",12.477857,41.918324,0
+146,1989,"Santa Maria Capua Vetere, Museo Archeologico Nazionale",14.253416,41.080581,0
+35,1992,"Salerno, Museo Archeologico Provinciale",14.762301,40.679086,0
+2,1994,"San Severo, Museo Civico",15.378934,41.687541,0
+3,1995,"Sibari, Museo Nazionale Archeologico",16.491336,39.718196,0
+1,1996,"Reggio di Calabria, Soprintendenza per i Beni Archeologici della Calabria",15.651049,38.114498,0
+4,1997,"Florence, Soprintendenza Archeologica per la Toscana",11.263339,43.775484,0
+7,1998,"Naples, Soprintendenza Archeologica per le Province di Napoli e Caserta",14.250078,40.853,0
+37,2001,"Teano, Museo Nazionale",14.067267,41.252014,0
+150,2005,"Turin, Museo di Antichità",7.685789,45.074827,0
+94,2008,"Venosa, Museo Archeologico Nazionale",15.817832,40.961598,0
+3,2013,"Rome, Museo etnografico Pigorini",12.471402,41.832346,0
+1,2014,"Godalming, Museum",-0.615596,51.18528700000001,0
+33,2015,"Cheltenham, Museum",-2.077933,51.901225,0
+18,2016,"Chelmsford, Museum",0.46345,51.722904,0
+16,2017,"Dover, Museum",1.313217,51.12475599999999,0
+14,2020,"Hertford, Museum",-0.077886,51.797104,0
+1,2021,"Louth, Museum",-0.005289,53.36805099999999,0
+7,2028,"Ambleside, Armitt Museum",-2.963317,54.434259,0
+16,2029,"Aylesbury, Museum",-0.814956,51.817196,0
+2,2031,"London, Bank of England Museum",-0.087561,51.514144,0
+2,2032,"Basingstoke, Museum",-1.111089,51.266578,0
+3,2035,"Bignor, Villa Museum",-0.596954,50.92050200000001,0
+1,2036,"Bodmin, Museum",-4.719042,50.47058499999999,0
+5,2037,"Newcastle under Lyme, Borough Museum",-2.21932,53.01718199999999,0
+15,2041,"York, Castle Howard",-0.906128,54.12180299999999,0
+9,2045,"Manchester, City Art Gallery",-2.241822,53.47882,0
+4,2046,"Merthyr Tydfil, Cyfarthfa Castle Museum",-3.390264000000001,51.756657,0
+9,2049,"Devizes, Museum",-1.993489,51.34982900000001,0
+5,2055,"Harlow, Museum",0.12264,51.779184,0
+3,2057,"Bristol, J.S. Fry and Son's Museum",-2.529227,51.49600100000001,0
+6,2058,"Kendal, Museum",-2.741549,54.331374,0
+1,2061,"Lazonby, Lazonby Hall",-2.715169,54.75908199999999,0
+1,2062,"Bath, Literary And Scientific Institution",-2.364288,51.383402,0
+10,2065,"Lympne, Lympne Castle",1.023915,51.072549,0
+2,2067,"Margate, Museum",1.382032,51.389468,0
+3,2072,"St Ives, Norris Museum",-0.07717499999999999,52.325301,0
+1,2074,"Oakham, Rutland Museum",-0.7254499999999999,52.66776200000001,0
+3,2075,"Pulborough, Parham Park",-0.493191,50.918649,0
+1,2077,"Penzance, Penlee House Museum",-5.539798,50.11650000000001,0
+1,2078,"Poole, Museum",-1.988669,50.71260500000001,0
+2,2080,"Richmond, Richmondshire Museum",-1.736236,54.404094,0
+2,2084,"Hutton-le-Hole, Royal Archaeological Institute",-0.917809,54.30098699999999,0
+12,2088,"Scunthorpe, Museum",-0.654233,53.587096,0
+4,2090,"Southend, Central Museum",0.710958,51.542324,0
+10,2093,"Swindon, Museum",-1.777725,51.552722,0
+1,2094,"Ladybank, Tamworth Castle Museum",-1.696871,52.632582,0
+1,2095,"Wallsend, The Vyne",-1.087562,51.304694,0
+5,2096,"Tunbridge Wells, Museum",0.263904,51.133222,0
+3,2099,"Wisconsin, Ripon College",-88.84096,43.843222,0
+1,2101,"Coventry, Museum",-1.496616,52.372768,0
+5,2104,"Derby, Museum",-1.480028,52.923075,0
+2,2114,"Roehampton, The Priory",-0.251248,51.46243,0
+1,2140,"Inverurie, Carnegie Library",-2.374712,57.284403,0
+1,2145,"Inveraray, Castle",-5.073622,56.23739500000001,0
+1,2147,"Glasgow, Kelvingrove Museum",-4.290604,55.868589,0
+13,2162,"South Shields, Arbeia Roman Fort and Museum",-1.431977,55.00405,0
+2,2178,"Ellwangen, Alamannenmuseum",10.12765,48.96414,0
+1,2180,"Baden-Württemberg, Archäologisches Landesmuseum",9.178372,47.668559,0
+8,2181,"Schloss Gottorf, Archäologisches Landesmuseum",9.540608000000001,54.511551,0
+10,2182,"Freiburg, Archäologisches Museum Colombischlößle",7.846240999999999,47.997749,0
+6,2183,"Stavanger, Arkeologisk Museum",5.730064,58.96354399999999,0
+37,2186,"Stockholm, Historiska Museet",18.089956,59.33467799999999,0
+3,2187,"Asscheim, Geschichtlich-heimatkundliche Sammlung",11.714713,48.17084800000001,0
+1,2188,"Hamburg, Archäologische Museum",9.97728,53.459132,0
+1,2189,"Bremerhaven, Historische Museum",8.585769000000001,53.539027,0
+1,2190,"Rønne, Bornholms Museum",14.703283,55.1025,0
+1,2191,"Braunschweig, Braunschweigisches Landesmuseum",10.523186,52.26469399999999,0
+1,2192,"Soest, Burghofmuseum",8.11049,51.56838999999999,0
+1,2195,"Uppsala, Gamla Uppsala museum",17.633771,59.897789,0
+1,2196,"Nürnberg, Germanische Nationalmuseum",11.075511,49.448249,0
+1,2200,"Linköping, Jönköpings läns museum",14.175786,57.78020699999999,0
+1,2201,"Jægerspris, Jægerspris Slot",11.974245,55.856336,0
+26,2202,"Oslo, Kulturhistorisk museum",10.735424,59.916828,0
+10,2203,"Lund, Historiska Museum",13.195051,55.704321,0
+2,2205,"Visby, Gotlands Museum",18.292436,57.639656,0
+64,2206,"Augsburg, Römisches Museum",10.900566,48.365233,0
+6,2207,"Trondheim, Vitenskapsmuseet",10.387476,63.42909100000001,0
+242,2212,"Sarajevo, Zemaljski Muzej Bosne i Hercegovine",18.402655,43.85509,0
+6,2213,"Hannover, Niedersächsisches Landesmuseum",9.739879,52.365479,0
+9,2215,"Højbjerg, Moesgård Museum",10.22695,56.087256,0
+129,2216,"Budapest, Magyar Nemzeti Múzeum",19.062476,47.491198,0
+2,2217,"Berlin, Münzkabinett",13.394256,52.521893,0
+2,2218,"Nijmegen, Museum Het Valkhof",5.870612,51.847055,0
+2,2220,"Stockholm, Riksantikvarieämbetet",18.091055,59.333356,0
+1,2225,"Skara, Västergötlands museum",13.440368,58.389756,0
+1,2226,"Ravenna, Soprintendenza per i Beni Architettonici e Paesaggistici",12.196356,44.420008,0
+1,2227,"Weimar, Thüringisches Landesamt für Archäologische Denkmalpflege",11.32591,50.97538,0
+1,2232,"Helsinki, Suomen kansallismuseo",24.931611,60.17497900000001,0
+3,2237,"Oldenburg, Landesmuseum Natur und Mensch",8.21827,53.13428,0
+1,2238,"Bad Bederkesa, Museum Burg Bederkesa",8.842523999999999,53.626527,0
+1,2239,"Krefeld-Linn, Museum Burg Linn",6.636,51.334813,0
+1,2241,"Stralsund, Kulturhistorisches Museum",13.08799,54.312718,0
+1,2243,"Racibórz, Muzeum w Raciborzu",18.217764,50.09233,0
+1,2245,"Winchester, King Alfred's College",-1.332933,51.063005,0
+26,2257,"Aalen, Limesmuseum",10.084435,48.836155,0
+5,2263,"Adana, Archaeological Museum",35.332714,36.997831,0
+3,2269,"Aix-les-Bains, Musée Faure",5.915879000000001,45.692457,0
+6,2275,"Alzey, Museum",8.112435,49.74741699999999,0
+1,2281,"Ardenne, Musée de la Céramique",5.099372,50.486399,0
+5,2282,"Ankara, Museum of Anatolian Civilizations",32.861751,39.938546,0
+11,2287,"Aoste, Musée Gallo-romain",5.60645,45.587905,0
+1,2292,"Arras, Musée des Beaux-Arts",2.773248,50.29166500000001,0
+16,2293,"Aschaffenburg, Stiftsmuseum",9.146094,49.973964,0
+19,2295,"Augsburg, Maximilianmuseum",10.896926,48.367951,0
+1,2298,"Avallon, Musée de l'Avallonnais",3.906611,47.48691399999999,0
+2,2300,"Avignon, Musée Lapidaire",4.805808,43.945788,0
+19,2305,"Bad Deutsch-Altenburg, Archäologisches Museum Carnuntinum",16.9044,48.1373,0
+2,2311,"Bavay, Musée archéologique",3.791604,50.298971,0
+4,2328,"Brežice , Posavski Regional Museum",15.592592,45.90189800000001,0
+1,2329,"Bratislava, Slovak National Museum",17.112598,48.140203,0
+1,2330,"Brno, Morovian Museum",16.608759,49.19193,0
+1,2333,"Budapest, History Museum",19.040648,47.495178,0
+1,2344,"Cankiri , Museum",33.616662,40.600209,0
+1,2347,"Carros, Centre International d'Art Contemporain",7.178542000000001,43.760734,0
+19,2354,"Cividale, Museo Archeologico Nazionale",13.430942,46.093328,0
+6,2355,"Clermont-Ferrand, Musée Bargoin",3.087176,45.77411,0
+3,2360,"Corfu, Archaeological Museum",19.921461,39.619178,0
+2,2365,"Cyrene, Cyrene Museum",21.864164,32.817891,0
+17,2369,"Dijon, Musée Archéologique",5.034823,47.321641,0
+4,2370,"Dieburg, Museum Schloss Fechenbach",8.838480000000001,49.899776,0
+6,2372,"Djemila, Musée",5.736183,36.316907,0
+37,2373,"Dunaújváros, Intercisa Múzeum",18.94105,46.964966,0
+1,2376,"Eauze, Musée archéologique",0.101421,43.860968,0
+17,2379,"Eichstätt, Museum für Ur- und Frühgeschichte",11.18501,48.88733,0
+6,2380,"Eisenstadt, Landesmuseum Burgenland",16.517169,47.84623,0
+34,2382,"Enns, Museum Lauriacum",14.4794,48.2143,0
+2,2385,"Ettlingen, Museum",8.405314000000001,48.94057099999999,0
+37,2386,"Esztergom, Balassa Bálint Museum",18.737028,47.79696400000001,0
+5,2388,"Feldkirchen, Amthofmuseum",14.092392,46.722411,0
+1,2390,"Frauenberg, Tempelmuseum",15.523254,46.77433,0
+1,2392,"Friedberg, Museum im Wittelsbacher Schloss",10.979558,48.357666,0
+5,2393,"Friesach, Stadtmuseum",14.4031,46.9516,0
+1,2394,"Friesach, Tauernstrassen-Museum",13.3819,47.4284,0
+1,2396,"Fulda, Vonderau Museum",9.678156,50.551265,0
+6,2399,"Gaiziantep, Museum",37.382469,37.064487,0
+3,2400,"Gela, Museo Archeologico Regionale",14.257417,37.063394,0
+1,2407,"Grenoble, Musée de l'Ancien Évêché",5.732138,45.193052,0
+2,2410,"Groß-Gerau, Stadtmuseum",8.484424000000001,49.918772,0
+5,2411,"Grünwald, Burgmuseum",11.51941,48.04286,0
+3,2413,"Gunzenhausen, Stadtmuseum",10.75528,49.11490999999999,0
+19,2414,"Győr, Xantus János Múzeum",17.634559,47.68867,0
+3,2416,"Hallstatt, Museum",13.649033,47.561766,0
+1,2417,"Haltern, Westfälisches Römermuseum",7.171183,51.738865,0
+1,2418,"Han-sur-Lesse, Maison de la vie Paysanne",5.188741,50.124736,0
+16,2420,"Hanau, Historisches Museum Schloss Philippsruhe",8.892289,50.127421,0
+5,2429,"Günzburg, Heimatmuseum",10.27503,48.45452999999999,0
+2,2432,"Heidenheim, Museum im Römerbad",10.155963,48.678518,0
+1,2438,"Ingelheim am Rhein, Museum bei der Kaiserpfalz",8.071463,49.976576,0
+1,2439,"Ingolstadt�, Stadtmuseum",11.417018,48.766961,0
+8,2443,"Izmit, Museum of Archaeology & Ethnography",29.915887,40.762398,0
+1,2447,"Jülich, Stadtgeschichtliches Museum",6.357937999999999,50.922196,0
+22,2449,"Kaposvár, Rippl-Rónai Múzeum",17.790521,46.356343,0
+7,2454,"Karlsruhe, Landesdenkmalamt",8.37566,49.01622999999999,0
+2,2457,"Kastamonu, Museum",33.775767,41.373696,0
+3,2458,"Kempten, Allgäu-Museum",10.309685,47.72877699999999,0
+1,2459,"Kempten, Archäologischer Park Cambodunum",10.32579,47.72636,0
+23,2462,"Keszthely, Balatoni Múzeum",17.242302,46.75871599999999,0
+8,2464,"Koblenz�, Mittelrhein-Museum",7.596104000000001,50.358709,0
+17,2465,"Koblenz�, Landesmuseum",7.614349000000001,50.36416899999999,0
+7,2468,"Komárno, Podunajské Múzeum",18.127226,47.75776199999999,0
+1,2473,"Konstanz, Rosgartenmuseum",9.174685999999999,47.660214,0
+1,2481,"Künzing, Museum Quintana",13.07839,48.66871,0
+1,2484,"Lattes, Musée archéologique Henri Prades",3.908611,43.566578,0
+1,2487,"Le Pègue, Musée Archéologique",5.049279,44.427749,0
+6,2488,"Leonding�, Stadtmuseum",14.261677,48.28623,0
+5,2490,"Lienz , Museum Schloss Bruck",12.748506,46.833275,0
+1,2491,"Avenches, Dichter- und Stadtmuseum",7.73462,47.48419999999999,0
+2,2492,"Linz, Nordico Stadtmuseum",14.291357,48.30408599999999,0
+2,2494,"Lipari, Museo Archeologico",14.95724,38.467225,0
+58,2496,"Ljubljana, Narodni muzej Slovenije",14.499309,46.052106,0
+2,2501,"Luxemburg, Musee National d'Histoire et d'Art",6.133852000000001,49.611641,0
+53,2502,"Lyon, Musée Gallo-Romain",4.819861,45.760463,0
+1,2503,"Lyon, Centre Scolaire aux Lazaristes",4.832555,45.764435,0
+1,2511,"Maastricht, Bonnefantenmuseum",5.701958,50.84249200000001,0
+1,2518,"Maria Saal, Kärntner Freilichtmuseum",14.346334,46.680798,0
+50,2519,"Mannheim, Museum Zeughaus",8.461236,49.48792,0
+2,2520,"Manisa, Archaeological Museum",27.429851,38.610432,0
+4,2523,"Marseille, Musée d'Histoire",5.375592,43.297799,0
+2,2528,"Melk, Stift Melk",15.333505,48.22945799999999,0
+11,2533,"Middelburg, Zeeuws Museum",3.614507000000001,51.50074499999999,0
+6,2536,"Millau, Musée de Millau et des Grands Causses",3.080991,44.097576,0
+1,2537,"Millstatt, Stiftsmuseum",13.570579,46.804034,0
+12,2541,"München, Bavarian National Museum",11.590938,48.142984,0
+1,2542,"München, Bayerisches Landesamt für Denkmalpflege",11.578749,48.138689,0
+2,2544,"Montpellier, Musée Languedocien de la Société Archéologique",3.879108,43.609492,0
+1,2545,"Montbéliard, Musée d'Art et d'Histoire Beurnier Rossel",6.797509,47.50994900000001,0
+1,2546,"Mühlacker, Heimatmuseum",8.84198,48.94631,0
+2,2549,"Murrhardt, Carl-Schweizer-Museum",9.578889999999999,48.978329,0
+2,2550,"Nantes, Musée Dobrée",-1.566442,47.21244,0
+5,2551,"Narbonne, Musée Lapidaire",3.003618,43.1811,0
+2,2552,"Neuburg, Stadtmuseum",11.177499,48.73723200000001,0
+7,2553,"Neuburg, Staatliches Museum im Schloss",11.1811,48.73698,0
+129,2563,"Cagliari, Museo Archeologico Nazionale",9.116633999999999,39.222627,0
+1,2568,"New York, Corning Museum of Glass",-77.054196,42.149804,0
+1,2569,"Neuwied, Roentgen-Museum",7.472044,50.42953800000001,0
+30,2570,"Nice, Archeology Museum",7.275125,43.719309,0
+8,2576,"Obernburg, Römermuseum",9.14804,49.84016,0
+5,2580,"Nuits-Saint-Georges, Musée de Nuits-Saint-Georges",4.950487,47.138693,0
+6,2587,"Osijek, Muzej Slavonije",18.696303,45.560136,0
+32,2588,"Osterburken, Römermuseum",9.426019999999999,49.42974,0
+13,2593,"Paris, Cabinet des Médailles",2.338995,48.867066,0
+10,2594,"Pápa �, Janus Pannonius Múzeum",18.224006,46.07276,0
+1,2595,"Passau, Oberhausmuseum",13.470744,48.577718,0
+5,2599,"Pforzheim, Archäologischer Schauplatz",8.712671,48.891056,0
+1,2615,"Provins, Musée de Provins et du Provinois",3.290653,48.561566,0
+11,2616,"Ptuj, Pokrajinski muzej",15.86476,46.42051200000001,0
+1,2617,"Pula, Arheološki muzej Istre",13.845535,44.870336,0
+71,2618,"Regensburg, Historisches Museum",12.10193,49.01775199999999,0
+1,2621,"Remagen, Römisches Museum",7.227650999999999,50.579631,0
+1,2622,"Utrecht, Museum Catharijneconvent",5.124153,52.087208,0
+1,2626,"Rosenheim, Städtisches Museum",12.128441,47.85628,0
+8,2634,"Rousse , Historical Museum",25.947618,43.844004,0
+1,2635,"Rheinzabern, Museum",8.278510000000001,49.11982,0
+3,2642,"St. Pölten, Stadtmuseum",15.622527,48.20414599999999,0
+2,2644,"St. Pölten, Diözesanmuseum",15.627393,48.205444,0
+2,2645,"St. Paul, Benediktinerstift",14.872026,46.69976799999999,0
+1,2647,"Saint-Chamas, Musée municipal",5.033333,43.549235,0
+4,2650,"Saint-Marcel, Musée archéologique d'Argentomagus",1.515281,46.600474,0
+1,2652,"Mane, Musée de Salagon",5.763615,43.935886,0
+29,2654,"Salzburg, Museum",13.048085,47.798454,0
+1,2661,"Sarrebourg, Musée du Pays de Sarrebourg",7.055296,48.73514200000001,0
+1,2663,"Ontario, Sault Ste. Marie Museum",-84.327946,46.50797499999999,0
+15,2664,"Sassari, Museo Nazionale G. A. Sanna",8.567228999999999,40.722657,0
+2,2665,"Schaffhausen, Museum zu Allerheiligen",8.635481,47.695042,0
+5,2667,"Schwäbisch Hall, Hällisch-Fränkisches Museum",9.737177000000001,49.110799,0
+1,2673,"Soissons, Musée municipal",3.327268999999999,49.384313,0
+1,2686,"Seitenstetten, Benediktinerstift",14.655681,48.035858,0
+1,2696,"Auch, Le Musée des Jacobins",0.587572,43.647074,0
+2,2709,"Simmern, Hunsrück-Museum",7.519937999999999,49.982958,0
+1,2710,"Sierre, Château de Villa",7.521245,46.294202,0
+1,2719,"Slovenj Gradec, Koroški pokrajinski muzej",15.078744,46.509328,0
+59,2723,"Speyer, Historisches Museum",8.441572000000001,49.315827,0
+21,2727,"Straubing, Gäubodenmuseum Straubing",12.570521,48.883542,0
+10,2731,"Százhalombatta, Matrica Múzeum",18.910782,47.321734,0
+1,2732,"Szeged, Móra Ferenc Múzeum",20.152069,46.25231599999999,0
+4,2736,"Tekirdağ�, Rákóczi Museum",27.509972,40.974066,0
+1,2737,"Teteven, Historical Museum",24.23521,42.928715,0
+121,2744,"Szombathely, Savaria Múzeum",16.625846,47.2334,0
+40,2745,"Szentendre, Ferenczy Múzeum",19.076172,47.667642,0
+53,2755,"Tirana, Archaeological Museum",19.821954,41.318375,0
+6,2756,"Tongeren, Gallo-Romeins Museum",5.466333,50.7813,0
+1,2757,"Toul, Musée d'Art et d'Histoire",5.891139999999999,48.678466,0
+5,2760,"Traismauer, Museum für Frühgeschichte",15.743047,48.350817,0
+2,2761,"Traunstein, Stiftung Heimathaus",12.647144,47.869391,0
+21,2766,"Trogir, Muzej grada Trogira",16.250685,43.517304,0
+3,2774,"Tuzla, Muzej Istočne Bosne",18.673992,44.542088,0
+1,2781,"Vasvár, Vasvári Múzeum",16.800108,47.04728600000001,0
+1,2785,"Venice, Museo Archeologico Nazionale",12.337142,45.433723,0
+80,2786,"Verona, Museo Lapidario Maffeiano",10.990881,45.438315,0
+1,2788,"Velzeke, Provinciaal Archeologisch Museum",3.779662000000001,50.884211,0
+1,2790,"Velika Gorica, Muzej Turopolja",16.076029,45.713984,0
+11,2792,"Veszprém , Laczkó Dezső Veszprém Megyei Múzeum",17.908751,47.09052000000001,0
+7,2794,"Vienne, Musée Archéologique Saint-Pierre",4.87094,45.522883,0
+3,2795,"Vinkovci, Gradski muzej",18.839613,45.192818,0
+2,2796,"Villeneuve-sur-Lot, Musée de Gajac",0.7077120000000001,44.405132,0
+1,2797,"Viron, Musée Gaumais",5.535315,49.567854,0
+5,2799,"Visegrád, Mátyás Király Múzeum",18.973134,47.791435,0
+5,2801,"Weißenburg, Römermuseum",10.970535,49.031544,0
+3,2802,"Vlorë, National Museum of Independence",19.485433,40.452193,0
+1,2805,"Wallsee-Sindelburg, Römermuseum",14.7218,48.1635,0
+1,2809,"Wagna, Römermuseum Flavia Solva",15.568954,46.768962,0
+2,2810,"Wasserburg, Museum",12.232511,48.061268,0
+2,2813,"Vienna, Historisches Museum",16.37296,48.199437,0
+81,2816,"Wiesbaden, Museum",8.245760000000001,50.077458,0
+71,2826,"Zalău, Muzeul Judetean de Istorie si Arta",23.054019,47.179312,0
+2,2857,"Vis, Museum",16.193702,43.056863,0
+6,2868,"Montebelluna, Museo",12.057556,45.778338,0
+17,2869,"Vienna, Naturhistorisches Museum",16.359845,48.205212,0
+14,2870,"Adria, Museo Archeologico",12.054678,45.049575,0
+2,2871,"Padua, Seminario",11.872409,45.400757,0
+1,2872,"Vincenza, Museo Naturalistico e Archeologico",11.54749,45.549711,0
+1,2874,"Teglio, Antiquarium",10.061606,46.17056,0
+39,2878,"Albacete, Museo Provincial",-1.855477,38.986525,0
+1,2882,"Alicante, Museo Arqueológico",-0.47641,38.353686,0
+19,2892,"Braga, Museu Regional de Arqueologia D. Diogo de Sousa",-8.427657999999999,41.545964,0
+12,2893,"Bragança, Museu do Abade de Baçal",-6.752986,41.805735,0
+122,2895,"Cáceres, Museo de Cáceres",-6.370334,39.47284,0
+27,2896,"Cádiz, Museo de Cádiz",-6.296566,36.535105,0
+16,2897,"Calahorra, Museo de la Romanización",-1.960808,42.302078,0
+28,2899,"Cartagena, Museo Arqueológico Municipal",-0.993538,37.61543,0
+9,2904,"Chaves, Museu da Região Flaviense",-7.471671,41.739676,0
+23,2907,"Cuenca, Museo de Cuenca",-2.129238,40.078196,0
+2,2911,"Évora, Museu de Évora",-7.90684,38.5722,0
+10,2912,"Fundão, Museu Arquológico Municipal José Monteiro",-7.500233,40.13634,0
+14,2913,"Guadalajara, Museo de Guadalajara",-3.168658,40.635874,0
+7,2920,"Jaén, Museo de Jaén",-3.789455,37.774168,0
+17,2925,"Lissabon, Museu da cidade",-9.156418,38.758551,0
+27,2932,"Málaga, Museo de Málaga",-4.417302,36.720334,0
+127,2936,"Mérida, Museo Nacional de Arte Romano",-6.33957,38.916953,0
+2,2937,"Miranda do Douro, Museu da Terra de Miranda",-6.274196,41.49436,0
+17,2941,"Ourense , Museo Arqueológico Provincial",-7.863084000000001,42.335734,0
+7,2944,"Palencia, Museo Arqueológico",-4.535572,42.009457,0
+33,2945,"Pamplona, Museo de Navarra",-1.646299,42.81938,0
+9,2950,"Santiago de Compostela, Museo das Peregrinacións e de Santiago",-8.543397000000001,42.882074,0
+53,2952,"Sevilla, Museo Arqueológico Provincial",-5.987187,37.371049,0
+11,2958,"Tarragona, Museu Nacional Arqueològic",1.258552,41.116644,0
+4,2960,"Teruel, Museo Provincial",-1.107096,40.344055,0
+2,2962,"Toledo, Biblioteca de los Navalmorales (Biblioteca Pública Municipal)",-4.64316,39.720667,0
+1,2967,"Tortosa, Museu de Tortosa",0.522071,40.815961,0
+1,2968,"Tossa de Mar, Museu Municipal",2.933026,41.716144,0
+7,2973,"Valladolid, Museo Arqueológico Provincial",-4.728702,41.656073,0
+58,2979,"Zaragoza, Museo de Zaragoza",-0.878892,41.648412,0
+6,2980,"Zaragoza, Museo del foro de Caesaraugusta",-0.876091,41.655427,0
+1,2981,"Zaragoza, Museo del Puerto Fluvial de Caesaraugusta",-0.876091,41.655427,0
+4,2986,"Châtillon sur Seine, Musée du Pays Châtillonnais",4.574869,47.863764,0
+1,2988,"Nevers, Musée Nivernais de l'Éducation",3.156216,46.986011,0
+2,2990,"Châteauroux, Musée Hôtel Bertrand",1.694156,46.813595,0
+1,2992,"Valenciennes, Musée des Beaux-Arts",3.530781999999999,50.357594,0
+1,2995,"Menton, Musée de Préhistoire",7.503484,43.777005,0
+5,2998,"Lezoux, Musée de la céramique",3.383769,45.825743,0
+3,2999,"Paris, Musée de Cluny",2.344081,48.850483,0
+1,3000,"Rennes, Musée de Bretagne",-1.674586,48.105221,0
+1,3003,"Paris, Musée Carnavalet",2.362855,48.85714400000001,0
+18,3005,"Nîmes, Musée Archéologique",4.362773,43.837506,0
+8,3012,"Bozen, Stadtmuseum",11.349095,46.499516,0
+1,3014,"Verona, Museo Miniscalchi Erizzo",10.995772,45.44515200000001,0
+20,3015,"Verona, Soprintendenza Archeologica per il Veneto",10.999548,45.438798,0
+13,3034,"Moulins, Musée Anne-de-Beaujeu",3.330505,46.5673,0
+5,3051,"Sesto Calende, Museo Civico",8.631387,45.72397500000001,0
+113,3055,"Bergamo, Civico Museo Archeologico",9.65921,45.70587,0
+2,3057,"Remedello, Museo Civico Archeologico",10.371624,45.27903000000001,0
+1,3058,"Mantova, Museo Archeologico Nazionale",10.79854,45.160819,0
+4,3059,"Oderzo, Museo Civico Archeologico",12.490966,45.77850800000001,0
+1,3064,"Gallarate, Museo Civico",8.792859999999999,45.66352,0
+18,3077,"Milan, Soprintendenza per i Beni Archeologici della Lombardia",9.17939,45.45796099999999,0
+1,3086,"Épinal, Musée historique et archéologique",6.451337000000001,48.17348199999999,0
+7,3104,"Anagni, Palazzo Comunale",13.158386,41.742251,0
+22,3105,"Ancona, Soprintendenza Archeologica delle Marche",13.51221,43.62232,0
+4,3106,"Ancona, Museo Diocesano",13.509879,43.624975,0
+1,3109,"Anzio, Museo Civico Archeologico",12.630277,41.450362,0
+909,3110,"Aquileia, Museo Archeologico Nazionale",13.368387,45.767534,0
+1,3112,"Arcevia, Museo Archeologico Statale",12.939242,43.500895,0
+1,3116,"Ariano Irpino, Antiquarium",15.090644,41.152614,0
+2,3123,"Assisi, Museo dell'Abbazia di San Pietro",12.608115,43.072118,0
+2,3125,"Asti, Museo di Sant'Anastasio",8.199747,44.899383,0
+2,3126,"Atena Lucana, Antiquarium",15.549915,40.455136,0
+8,3127,"Atina, Museo Civico Archeologico",13.800955,41.619061,0
+1,3133,"Bari, Museo Diocesano",16.868659,41.127654,0
+1,3137,"Bastia Umbra, Municipio di Bastia Umbra",12.549254,43.066577,0
+10,3140,"Berlin, Altes Museum",13.399006,52.519321,0
+14,3143,"Birmingham, Museum and Art Gallery",-1.903462,52.480111,0
+1,3149,"Bordighera, Museo Bicknell",7.661832,43.783856,0
+1,3153,"Bovolone, Biblioteca Civica",11.116099,45.259371,0
+2,3155,"Braunschweig, H.A. Ulrich Museum",10.533089,52.263504,0
+3,3159,"Brescia, Soprintendenza Archeologica della Lombardia",10.225498,45.538105,0
+1,3165,"Cairo Montenotte, Municipio",8.277722000000001,44.39765,0
+1,3167,"Calvi Risorta, Soprintendenza Archeologica di Napoli",14.13362,41.211512,0
+2,3174,"Capri, Certosa di San Giacomo",14.245191,40.547763,0
+2,3175,"Capri, Palazzo a Mare",14.231388,40.558023,0
+1,3194,"Cattolica, Municipio",12.743976,43.96382,0
+4,3197,"Cefalù, Museo Mandralisca",14.021182,38.039724,0
+2,3198,"Cervignano del Friuli, Castello di Strassoldo",13.322192,45.860381,0
+1,3200,"Château-Gontier, Musée Municipal",-0.70489,47.829027,0
+17,3207,"Cingoli, Museo Archeologico Statale",13.216265,43.373983,0
+282,3208,"Rome, Vatican, Musei Vaticani",12.453507,41.906651,0
+21,3228,"Civitavecchia, Museo Nazionale Archeologico",11.79279,42.09103,0
+57,3234,"Cuneo, Museo Civico",7.550535,44.394823,0
+1,3238,"Dublin, National Gallery",-6.252502,53.340906,0
+2,3239,"Eboli, Museo Archeologico Nazionale",15.056408,40.618859,0
+1,3250,"Fermo, Museo Diocesano",13.716409,43.1611,0
+2,3252,"Ferrara, Palazzo dei Diamanti",11.62123,44.842089,0
+23,3255,"Fiesole, Museo Civico Archeologico",11.293924,43.807329,0
+14,3258,"Florence, Casa Buonarroti",11.263599,43.769844,0
+1,3259,"Florence, Centro Europeo del Restauro",11.235128,43.818656,0
+36,3263,"Florence, Galleria degli Uffizi",11.255311,43.767786,0
+1,3266,"Florence, Museo Nazionale del Bargello",11.257978,43.770373,0
+131,3267,"Assisi, Museo Comunale",12.61429,43.071392,0
+1,3269,"Florence, Palazzo Pitti",11.250273,43.765182,0
+81,3270,"Florence, Palazzo Rinuccini",11.246748,43.769035,0
+1,3273,"Tampa, Museum of Art",-82.46275799999999,27.949519,0
+10,3280,"Gambolò, Museo Archeologico Lomellino",8.858199000000001,45.255827,0
+16,3283,"Gavardo, Museo Archeologico",10.438942,45.58477,0
+5,3284,"Genova, Soprintendenza per i beni Archeologici della Liguria",8.926049000000001,44.414925,0
+2,3286,"Gioia del Colle, Museo Archeologico Nazionale",16.923095,40.800382,0
+1,3289,"Göteborg, Göteborgs Konstmuseum",11.980359,57.696735,0
+1,3292,"Gravina di Puglia, Museo Fondazione Pomarici-Santomasi",16.414991,40.818461,0
+1,3309,"Constantinople (Istambul), Ecumenical Patriarchate",28.951654,41.029207,0
+1,3310,"Utah (Arizona), University of Utah",-111.842102,40.764937,0
+36,3313,"Antwerp, Museum aan de Stroom",4.404745,51.22892800000001,0
+8,3315,"Portogruaro, Museo Nazionale Concordiese",12.835472,45.775353,0
+1,3316,"Altino, Museo Archeologico Nazionale",12.399186,45.54651,0
+1,3330,"Reggio Emilia, Museo Civico",11.830489,44.617528,0
+9,3335,"Manfredonia, Museo Nazionale Archeologico",15.9221,41.630452,0
+20,3336,"Troia, Museo Civico",15.306941,41.360528,0
+22,3341,"Lanuvio, Museo Civico",12.69762,41.675887,0
+201,3343,"Palestrina, Museo Nazionale Archeologico",12.892595,41.840565,0
+15,3348,"Rome, Palazzo Barberini",12.490048,41.903149,0
+59,3351,"Innsbruck, Institut für Alte Geschichte",11.385126,47.26335900000001,0
+4,3352,"Bakewell, Chatsworth House",-1.611427,53.227543,0
+4,3353,"Woburn, Abbey",-0.594378,51.982766,0
+1,3354,"Grimsby, Brocklesby Park",-0.279704,53.58649,0
+1,3357,"Northumberland, Callaly Castle",-1.577046,55.082649,0
+1,3358,"Taplow, Cliveden House",-0.688351,51.558143,0
+2,3361,"Holkham, Hall",0.803677,52.949851,0
+2,3368,"Melfi, Museo archeologico",15.650656,40.993942,0
+3,3372,"San Ferdinando di Puglia, Museo Civico",16.066313,41.30342,0
+1,3373,"Larino, Museo Civico",14.910354,41.801007,0
+1,3378,"Grumento Nova, Museo Archeologico Nazionale",15.902774,40.28023,0
+93,3379,"Volterra, Museo Guarnacci",10.864269,43.40089,0
+12,3381,"Lucca, Museo Nazionale di Villa Guinigi",10.512243,43.845043,0
+1,3382,"Pietrasanta, Museo Archeologico Versiliese",10.232504,43.957735,0
+19,3383,"Rome, Museo dell'Alto Medioevo",12.47225,41.832671,0
+1,3384,"Rosignano Marittimo, Museo Archeologico",10.473296,43.406647,0
+2,3390,"Piombino, Museo Archeologico",10.522018,42.923116,0
+7,3391,"New York, New York University, Department of Classics",-73.96174499999999,40.806865,0
+1,3393,"New York, Jewish Museum",-73.95719800000001,40.78546,0
+2,3394,"Oxford, University Museum of Mississipi",-89.52509999999999,34.364417,0
+9,3396,"Louisville, Speed Art Museum",-85.76119199999999,38.217713,0
+1,3398,"San Antonio, Museum of Art",-98.48218900000001,29.437253,0
+2,3403,"Salerno, Museo Diocesano",14.760592,40.680921,0
+1,3404,"Teggiano, Museo Diocesano",15.541885,40.37911,0
+63,3405,"Sorrento, Museo Correale",14.381005,40.628785,0
+17,3406,"Ostia, Castello di Giulio II",12.301399,41.759408,0
+1,3410,"Priverno, Museo Archeologico",13.181716,41.473427,0
+7,3413,"Mondragone, Museo Civico",13.894921,41.116363,0
+1,3414,"Naples, Museo di San Martino",14.240878,40.843716,0
+42,3415,"Potsdam, Park Klein-Glienicke",13.102996,52.417394,0
+1,3417,"Potsdam, Charlottenhof",13.025549,52.39556200000001,0
+3,3421,"Isernia, Museo Archeologico",14.223915,41.58491,0
+17,3422,"Isernia, Santa Maria delle Monache",14.223915,41.58491,0
+1,3426,"Lauro, Museo Civico",14.633687,40.87986,0
+31,3435,"Ventimiglia, Museo Archeologico Civico",7.595182,43.790677,0
+3,3438,"Voghera, Biblioteca Civica",9.004822000000001,44.991767,0
+4,3440,"Savigliano, Museo Civico",7.661041,44.646725,0
+3,3442,"Monaco, Musée d'Anthropologie Préhistorique",7.413929,43.732063,0
+4,3443,"Vado Ligure, Museo Civico",8.43932,44.2734,0
+1,3445,"Turin, Museo Storico Nazionale d'Artiglieria",7.685893,45.070951,0
+21,3446,"Treia, Museo Archeologico Comunale",13.312339,43.311275,0
+13,3453,"Urbisaglia, Museo Archeologico Statale",13.376855,43.196769,0
+12,3456,"Tolentino, Abbadia di Fiastra",13.405215,43.22096,0
+1,3457,"Numana, Antiquarium Statale",13.620917,43.513314,0
+1,3460,"Osimo, Museo Diocesano",13.480707,43.485985,0
+2,3461,"Massa Fermana, Pinacoteca Civica",13.475743,43.150486,0
+2,3462,"San Benedetto del Tronto, Museo del mare",13.882265,42.957383,0
+60,3467,"Rome, Area Sacra di Largo Argentina",12.47686,41.895407,0
+17,3474,"Rome, Pontificio Istituto di Archeologia Cristiana",12.500081,41.897861,0
+5,3477,"Rome, Crypta Balbi",12.47846,41.894746,0
+1,3483,"Cecina, Museo Civico Archeologico",10.498186,43.318819,0
+1,3484,"Swansea, Royal Institution of South Wales",-3.977424,51.568994,0
+1,3486,"London, Apsley House",-0.151671,51.503472,0
+1,3491,"Rome, Museo di Roma",12.472958,41.897257,0
+11,3492,"Rome, Palazzo Spada",12.471922,41.894203,0
+1,3510,"Umeå, University",20.303591,63.820539,0
+12,3523,"Palermo, Museo Mormino",13.349237,38.13446,0
+3,3524,"Ragusa, Museo Archeologico",14.72727,36.9239,0
+1,3531,"Ivrea, Museo civico",7.878409,45.467106,0
+1,3532,"Vimercate, Museo del Territorio Vimercatese",9.370665000000001,45.612285,0
+2,3534,"Milan, Museo della Scienza e della Tecnologia",9.170685000000001,45.46290400000001,0
+2,3544,"Pieve Torina, Museo della nostra terra",13.047225,43.039993,0
+1,3545,"Jesi, Pinacoteca Civica",13.242774,43.521488,0
+2,3547,"Penna in Teverina, Municipio",12.354819,42.493321,0
+2,3548,"Senigallia, Museo",13.186389,43.70554,0
+1,3551,"Urbania, Museo Civico",12.523021,43.668003,0
+1,3553,"Matelica, Museo Piersanti",13.00799,43.255929,0
+4,3554,"Matelica, Pinacoteca comunale",13.008586,43.256434,0
+25,3556,"Narni, Museo Eroli",12.514071,42.520051,0
+1,3562,"Zuglio, Civico Museo Archeologico",13.026027,46.461887,0
+1,3565,"Gorizia, Palazzo Attems",13.627709,45.949396,0
+3,3567,"Rovereto, Museo Civico",11.038754,45.889922,0
+2,3586,"Salò, Museo Civico",10.522001,45.60442200000001,0
+4,3587,"Riva del Garda, Museo Civico",10.842164,45.884265,0
+2,3590,"Albano Laziale, Museo Civico",12.661458,41.72682,0
+1,3594,"Nemi, Museo delle Navi",12.701998,41.721714,0
+3,3597,"Vigevano, Museo Archeologico",8.855921,45.320159,0
+3,3600,"Verona, Museo Canonicale",10.996303,45.447148,0
+4,3604,"Rome, Teatro di Marcello",12.479908,41.891931,0
+239,3605,"Rome, San Silvestro in Capite",12.48066,41.90316,0
+1,3608,"Dublin, Mespil House",-6.250652000000001,53.33166000000001,0
+1,3612,"Ljubljana, Mestni muzej",14.50414,46.046902,0
+1,3616,"Venice, Museo Archeologico Provinciale",12.337164,45.43360000000001,0
+2,3617,"Rome, Pontificio Istituto Biblico",12.48361,41.898897,0
+1,3618,"Ferentino, Seminario Vescovile",13.256674,41.693709,0
+17,3619,"Capri, Villa San Michele",14.225009,40.557408,0
+1,3623,"Beaufort-en-Vallée, Musée Joseph-Denais",-0.218064,47.44029900000001,0
