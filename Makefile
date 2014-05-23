@@ -34,7 +34,7 @@ tm-collections-addresses-geocoded-remainder.csv: tm-collections-addresses-nongeo
 	./geocode-addresses.rb $< > $@
 
 tm-collections-addresses-clean.csv:
-	./tm-coll-rdf.rb ../dump > $@
+	./tm-coll-addresses.rb ../dump > $@
 
 earth.json: build/countries.json node_modules
 	node_modules/.bin/topojson-merge \
