@@ -21,7 +21,7 @@ build/countries.json: build/ne_110m_admin_0_countries.shp node_modules
 		--filter=none \
 		-- countries=$<
 
-tm-collections-geocoded.csv: tm-collections-addresses-geocoded.csv tm-collections-addresses-geocoded-remainder.csv
+tm-collections-geocoded.csv: tm-collections-addresses-geocoded.csv tm-collections-addresses-geocoded-remainder.csv tm-collections-manually-geocoded.csv
 	./merge-geocode-csv.rb $^ > $@
 
 tm-collections-addresses-geocoded.csv: tm-collections-addresses-geocoded.kml
