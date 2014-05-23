@@ -1,1 +1,3 @@
-Bubble map distribution of texts/collections in Trismegistos.
+Geographic distribution of texts/collections in Trismegistos. Bubble position is location of the collection, bubble size corresponds to the number of texts recorded as currently held by that collection.
+
+Mike Bostock's [Let's Make a Map](http://bost.ocks.org/mike/map/) and [Let's Make a Bubble Map](http://bost.ocks.org/mike/bubble-map/) tutorials were immensely helpful in learning how to create this visualization.
